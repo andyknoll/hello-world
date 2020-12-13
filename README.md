@@ -1,5 +1,2 @@
-# hello-world
 
-This is an edit to README.md
-
-This is another edit to README.md
+This is the only text in branch-3.
